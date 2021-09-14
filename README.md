@@ -1,6 +1,8 @@
 # Werkstattauftrag W07 Webmin
 
 ## 1. Autoren, Versionierung des Dokumentes
+Autor: Janis Müller
+Version: 
 
 ## 2. Einfuehrung 
    - Beschreibung: Welche Funktionen wird der Service erfuellen
@@ -12,14 +14,12 @@
    - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
 	hängigkeiten, Funktionalitaet)
 
-## 4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine
-     eigene Lösungswege realisieren)
+## 4. Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine eigene Lösungswege realisieren)
    - Anweisungen verstaendlich und nachvollziehbar
    - Keine fertigen Loesungsschritte aufzeigen
    - Hilfestellung (Tipps, Quellen...)
 
-## 5. Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos
-	und entsprechenden Outputs)
+## 5. Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos und entsprechenden Outputs)
 
 ## 6. Error-Handling 
 
